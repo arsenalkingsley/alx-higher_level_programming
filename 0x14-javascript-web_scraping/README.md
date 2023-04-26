@@ -1,0 +1,1 @@
+THIS IS A README FILE FOR THE THE ALX 0x14-javascript-web_scraping PROJECT 
