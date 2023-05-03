@@ -1,0 +1,1 @@
+THIS IS THE README FILE FOR THE ALX 0x15-javascript-web_jquery PROJECT 
